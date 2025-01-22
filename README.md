@@ -27,3 +27,15 @@ Para resolver o desafio phishing da trilha Cybersecurity Specialist da DIO será
 Você vará algo assim:
 
 ![0f204b7a-d41a-4d79-82d3-9703a317d318](https://github.com/user-attachments/assets/46321fac-1239-4b85-a2f8-0813727df118)
+
+Importante perceber que a opção clonar diretamente do setoolkit não vai funcionar. 
+Neste caso do facebook ou de qualquer outra página com script de defesa devemos optar pela importação customiza, ou seja, um código fonte da página que desejamos clonar editado localmente.
+
+![11821b9a-84e7-4b2d-9d44-0eaa68524e6c](https://github.com/user-attachments/assets/58fed615-e849-49ce-be96-79a4d777e2ab)
+
+Com as devidas edições poderemos novamente ver em plain text o login e senha
+
+![01860c95-c72f-4cf9-9492-09140ac6798a](https://github.com/user-attachments/assets/8eb2f86d-9c25-4a5f-ac0f-7edce5dc8b69)
+
+
+
