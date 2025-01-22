@@ -8,8 +8,8 @@ Neste repositório teremos a construção de um phishing para captura de senhas 
 
 # Ferramentas
 
-    Kali Linux
-    setoolkit
+    . Kali Linux
+    . setoolkit
 
 # Configurando o Phishing no Kali Linux
 
