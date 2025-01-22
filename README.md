@@ -24,7 +24,7 @@ Neste repositório teremos a construção de um phishing para captura de senhas 
 
 Para resolver o desafio phishing da trilha Cybersecurity Specialist da DIO será necessário entrar com as credenciais no site fake do Facebook. Assim, você vai se deparar com a página atual do facebook com a boa prática de tentar defender os campos login e senha via scripts de codificação 64 e hashing. Ou seja não irão conseguir o mesmo sucesso que o instrutor obteve. 
 
-Você vará algo assim:
+# Resultado
 
 ![0f204b7a-d41a-4d79-82d3-9703a317d318](https://github.com/user-attachments/assets/46321fac-1239-4b85-a2f8-0813727df118)
 
