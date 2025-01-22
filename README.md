@@ -22,7 +22,8 @@ Neste repositório teremos a construção de um phishing para captura de senhas 
     Obtendo o endereço da máquina: ifconfig
     URL para clone: http://www.facebook.com
 
-Para resolver o desafio phishing da trilha Cybersecurity Specialist da DIO será necessário entrar com as credenciais no site fake do Facebook. Assim, você vai se deparar com a página atual do facebook com a boa prática de tentar defender os campos login e senha via scripts de codificação 64 e hashing. Ou seja não irão conseguir o mesmo sucesso que o instrutor obteve. 
+Para resolver o desafio phishing da trilha Cybersecurity Specialist da DIO será necessário entrar com as credenciais no site fake do Facebook. 
+Assim, você vai se deparar com a página atual do facebook com a boa prática de tentar defender os campos login e senha via scripts de codificação 64 e hashing. Ou seja não irão conseguir o mesmo sucesso que o instrutor obteve. 
 
 # Resultado
 
